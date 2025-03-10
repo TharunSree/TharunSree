@@ -114,7 +114,7 @@ const TharunSree = {
     <a href="https://github.com/TharunSree/quantum-dashboard">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TharunSree&repo=quantum-dashboard&theme=dark&hide_border=true&bg_color=0D1117" />
     </a>
-    <a href="https://github.com/TharunSree/blockchain-explorer">
+    <a href="https://github.com/TharunSree/FinanceTracker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TharunSree&repo=blockchain-explorer&theme=dark&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/TharunSree/augmented-reality-sdk">
