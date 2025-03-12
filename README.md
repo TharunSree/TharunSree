@@ -59,15 +59,15 @@
 
 ## **📊 Windows 11 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunsree&show_icons=true&theme=transparent&icon_color=0078D4&title_color=00A4EF&text_color=FFFFFF&hide_border=true&bg_color=00000000" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsree&theme=windows-dark&hide_border=true&background=00000000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunsree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsree&theme=tokyonight&hide_border=true&background=00000000" width="48%">
 </p>
 
 ---
 
 ## **🚀 Modern Windows 11 Visitor Counter**
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visitors-🔵%20tharunsree🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tharunsree&count_bg=%230078D6&title_bg=%23000000&icon=windows11&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Counter">
 </p>
 
 ---
