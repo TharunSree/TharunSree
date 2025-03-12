@@ -42,15 +42,15 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=00000000" width="48%">
 </p>
 
 ---
 
-## **🚀 Visitor Counter**
+## **🚀 Modern Visitor Counter**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Visitors-🔵%20[YourGitHubUsername]%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
 </p>
 
 ---
