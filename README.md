@@ -50,7 +50,7 @@
 
 ## **🚀 Modern Visitor Counter**
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-🔵%20[TarunSree]%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Visitors-🔵%20TharunSree%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
 </p>
 
 ---
