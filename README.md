@@ -43,14 +43,14 @@
 ## **📊 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunSree&theme=tokyonight&hide_border=true&background=00000000" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunSree&theme=tokyonight&hide_border=true&background=00000000" width="48%">
 </p>
 
 ---
 
 ## **🚀 Modern Visitor Counter**
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-🔵%20[TharunSree]%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Visitors-🔵%20[TarunSree]%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
 </p>
 
 ---
