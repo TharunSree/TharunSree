@@ -1,62 +1,79 @@
-<!-- Modern GitHub Profile README -->
+<!-- Windows 11 Inspired GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35px"> Hi, I'm [Your Name]!
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40px"> Hi, I'm Tharun Sree!
 </h1>
 
 <p align="center">
-  <b>🚀 Tech Enthusiast | 🎮 Gamer | 💡 AI & ML Explorer</b>
+  <b>🚀 AI & ML Explorer | 🎮 Gamer | 💡 Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Kotlin-blue?style=for-the-badge&logo=kotlin" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Code-JavaScript-orange?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tools-Django-brightgreen?style=for-the-badge&logo=django" alt="Django">
-  <img src="https://img.shields.io/badge/Tools-Android_Studio-darkgreen?style=for-the-badge&logo=android-studio" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Code-Kotlin-0078D6?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-00A4EF?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Django-00A4EF?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white">
 </p>
 
 ---
 
 ## **🌟 About Me**
 - 🎓 **Aspiring IIM Kozhikode student** & current **undergraduate**  
-- 🤖 **Building an RL-based Trading Bot** with **Deep Q-Learning & PPO**  
-- 💰 **Finance Tracker App** in **Kotlin & Python** (Smart transaction classification)  
+- 🤖 **Building an RL-based Trading Bot** (Deep Q-Learning, PPO)  
+- 💰 **Finance Tracker App** – Smart expense tracking with AI  
 - 🎮 **Gamer at heart**, currently playing *Humankind*  
 
 ---
 
 ## **🛠️ Tech Stack**
-| 💻 Programming  | 🛠️ Tools & Frameworks | 🌐 Web & Databases |
-|----------------|-----------------------|--------------------|
-| Kotlin, Python, JavaScript, VB.NET | Django, Room DB, Firebase, Bootstrap | PostgreSQL, SQLite, TailwindCSS |
+<table>
+  <tr>
+    <td align="center"><b>💻 Programming</b></td>
+    <td align="center"><b>🛠️ Tools & Frameworks</b></td>
+    <td align="center"><b>🌐 Web & Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## **📌 Projects**
 - 🎯 **Finance Tracker App** – *(Smart expense tracking using NLP & Regex)*  
-- 🏨 **Guesthouse Booking System** – *(Django-based calendar UI & booking history)*  
-- 🤖 **Reinforcement Learning Trading Bot** – *(Autonomous trading w/ real-time monitoring)*  
+- 🏨 **Guesthouse Booking System** – *(Django-based booking history UI)*  
+- 🤖 **RL Trading Bot** – *(Autonomous trading with real-time monitoring)*  
 
 ---
 
-## **📊 GitHub Stats**
+## **📊 Windows 11 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunSree&theme=tokyonight&hide_border=true&background=00000000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunsree&show_icons=true&theme=transparent&icon_color=0078D4&title_color=00A4EF&text_color=FFFFFF&hide_border=true&bg_color=00000000" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsree&theme=windows-dark&hide_border=true&background=00000000" width="48%">
 </p>
 
 ---
 
-## **🚀 Modern Visitor Counter**
+## **🚀 Modern Windows 11 Visitor Counter**
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-🔵%20TharunSree%20🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visitors-🔵%20tharunsree🟣-blueviolet?style=for-the-badge&logo=windows11&logoColor=white">
 </p>
 
 ---
 
 ## **📫 Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YourProfile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tharunsree"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/tharunsree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
