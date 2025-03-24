@@ -9,10 +9,6 @@
 </p>
 
 <!-- Background Video Section -->
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/EEIk7gwjgIM?autoplay=1&mute=1&loop=1&playlist=EEIk7gwjgIM&controls=0&showinfo=0&modestbranding=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;"></iframe>
-</div>
-
 ---
 
 ## **🌟 About Me**
