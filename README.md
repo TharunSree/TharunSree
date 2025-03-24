@@ -1,4 +1,4 @@
-<!-- Windows 11 Glassmorphic GitHub Profile README -->
+<!-- Modern Theme with Dynamic Background Video -->
 
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40px"> Hi, I'm Tharun Sree!
@@ -8,12 +8,10 @@
   <b>🚀 AI & ML Explorer | 🎮 Gamer | 💡 Developer</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Kotlin-0078D6?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Python-00A4EF?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Django-00A4EF?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white">
-</p>
+<!-- Background Video Section -->
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/EEIk7gwjgIM?autoplay=1&mute=1&loop=1&playlist=EEIk7gwjgIM&controls=0&showinfo=0&modestbranding=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;"></iframe>
+</div>
 
 ---
 
